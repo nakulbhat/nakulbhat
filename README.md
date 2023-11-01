@@ -14,14 +14,12 @@ I've done my fair share of ![HTML5](https://img.shields.io/badge/html5-%23E34F26
 
 📫 You can reach me via nakulbhat034@gmail.com.
 
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) and [Twitter](https://twitter.com/yourhandle).
-
 ## Skills
 
-<p align = "center">
-    [![Nakul's GitHub stats](https://github-readme-stats.vercel.app/api?username=nakulbhat)](https://github.com/anuraghazra/github-readme-stats)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakul)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
+[![Nakul's GitHub stats](https://github-readme-stats.vercel.app/api?username=nakulbhat)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nakul)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Reading
 
@@ -35,11 +33,11 @@ I once cycled 100 kilometers in a day just for the fun of it! and then did it ag
 Feel free to explore my GitHub repositories and get in touch! As a first-year university student with a passion for everything, I'm excited to connect with fellow developers, cyclists, cooks, and anyone who's sharing interests with me, even tangentially. Let's learn and grow together!
 
 ## Connect
-
+LinkedIn
 📫 You can reach me via nakulbhat034@gmail.com.
 
 ### Socials:
 <p align ="center">
-    <a href="https://www.linkedin.com/in/nakulbhat/"><img align="left" src="https://raw.githubusercontent.com/nakulbhat/nakulbhat/main/images/linkedin.png" alt="Nakul Bhat | LinkedIn" width="21px"/></a>
-    <a href="https://www.instagram.com/_debugpro/"><img align="left" src="https://raw.githubusercontent.com/nakulbhat/nakulbhat/main/images/instagram.png" alt="Nakul Bhat | Instagram" width="21px"/></a>
+    <a href="https://www.linkedin.com/in/nakulbhat/"><img align="left" src="https://raw.githubusercontent.com/nakulbhat/nakulbhat/testing/images/linkedin.png" alt="Nakul Bhat | LinkedIn" width="21px"/></a>
+    <a href="https://www.instagram.com/_debugpro/"><img align="left" src="https://raw.githubusercontent.com/nakulbhat/nakulbhat/testing/images/instagram.png" alt="Nakul Bhat | Instagram" width="21px"/></a>
 </p>
