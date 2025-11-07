@@ -1,30 +1,9 @@
-## Hi There! — I’m Nakul.
+Hi there! I’m Nakul, a computer science student at Manipal—a researcher by trade and a typesetter by passion.
 
-Most days, I’m tucked into a research project or following an idea that showed up sometime between late night and early morning.  
-I like working where biology meets computation — messy problems with just enough structure to make them fun.
+My research revolves around bioinformatics, where I’m part of several major projects, along with a few of my own. Research, to me, is simply the formal expression of the curiosity that brought me joy (and a bit of trouble) as a kid.
 
-Lately, I’ve been focused on bioinformatics, healthcare AI, and figuring out how to make data behave.  
-A lot of what I build lives in private repos or quiet notebooks, but I’m always working on something — writing, refining, iterating.
+I work extensively with LaTeX and even designed my website to resemble a LaTeX document—a small tribute to the system that shaped how I think about writing and structure.
 
-When I’m not buried in LaTeX or a dataset, I’m usually out cycling, in the kitchen cooking something improvised, or coaxing an old computer into running like new. 
-Each habit has taught me something: patience, rhythm, and the value of staying calm when things fall apart.
+On most days, you can find me awake before dawn—the tranquil silence of a still sleeping world helps me think. You might also bump into me on a run or a cycling trip, hobbies that keep my mind in check. 
 
-I like slow starts, clean ideas, and believe — wholeheartedly — that sleep is the best coffee.
-
----
-
-### 🧪 Research Interests  
-- Bioinformatics  
-- AI in Healthcare  
-- Computational Genetics  
-- Drug Toxicity Prediction  
-- Data Analysis & Modelling  
-- Data Integrity & Handling  
-
----
-
-### 📬 Get in touch  
-📧 nakulbhat034@gmail.com  
-🌐 [nakulbhat.github.io](https://nakulbhat.github.io)  
-[LinkedIn](https://www.linkedin.com/in/nakulbhat/)  
-[ORCiD](https://orcid.org/0009-0003-6017-3093)
+The best way to contact me is through my email: nakulbhat034 [at] gmail [dot] com
